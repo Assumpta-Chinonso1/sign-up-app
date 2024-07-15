@@ -1,0 +1,12 @@
+body{
+  margin: 0;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smooting:  grayscale;
+  height: 100vh;
+  background: linear-gradient( #2A00B7, #611566);
+}
+
+code{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
